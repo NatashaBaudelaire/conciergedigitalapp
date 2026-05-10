@@ -4,7 +4,7 @@
 
 ## Objective
 
-The main goal of this project was to develop a comprehensive web platform for corporate event management, focusing on a modern digital experience, intelligent networking, and efficient management of agendas and speakers. The application was built using **React 18** with **Vite**, styled through **CSS Modules** and a glassmorphism design approach, and enhanced with features such as a **QR Code scanner**, AI-powered search, and **PWA** support.
+The main goal of this project was to develop a comprehensive web platform for corporate event management, focusing on a modern digital experience, intelligent networking, and efficient management of agendas and speakers. The application was built using React 18 with Vite, styled through CSS Modules and a glassmorphism design approach, and enhanced with features such as a QR Code scanner, AI-powered search, and PWA support.
 
 ***
 
@@ -23,7 +23,7 @@ The main goal of this project was to develop a comprehensive web platform for co
 
 ## Project Overview
 
-Concierge Digital App is a web system developed for the complete management of corporate events, providing a modern and integrated experience for participants, speakers, and organisers. It includes secure authentication, a smart dashboard, speaker profiles, dynamic scheduling with vacancy control, personal agenda management, QR-based check-in and networking, and a categorised Help Centre — all in a responsive, mobile-first interface.
+Concierge Digital App is a web system developed for the complete management of corporate events, providing a modern and integrated experience for participants, speakers, and organisers. It includes secure authentication, a smart dashboard, speaker profiles, dynamic scheduling with vacancy control, personal agenda management, QR-based check-in and networking, and a categorised Help Centre, all in a responsive, mobile-first interface.
 
 ***
 
@@ -43,7 +43,7 @@ Concierge Digital App is a web system developed for the complete management of c
 ### Build & Development
 - **Vite 5.2.11** for fast builds and development server
 - **ESLint 8.57.0** for code quality and standardisation
-- **@vitejs/plugin-react 4.3.0** — official React plugin for Vite
+- **@vitejs/plugin-react 4.3.0** official React plugin for Vite
 
 ### Special Features
 - **QR Scanner 1.4.2** for networking and automatic check-in
